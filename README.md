@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahrayawinn5g
-- 👀 I’m interested in web/software devlopment
+- 👀 I’m interested in web devlopment and software software engineering
 - 🌱 I’m currently learning HTML and CSS and soon i will begin learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
